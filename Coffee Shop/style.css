@@ -49,5 +49,23 @@ li a {
 li a:hover{
   color: #007AFF;
 }
+/* Nav-END */
 
+/* Header Start */
+.header{
+  background: url(../img/c1.png);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  /* FlexBox */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  position: relative;
+  text-align: center;
 
+}
