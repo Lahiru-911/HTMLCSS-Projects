@@ -103,3 +103,8 @@ li a:hover {
   justify-content: space-around;
   align-items: center;
 }
+.img{
+  width: 400px;
+  height: 400px;
+  background: url();
+}
