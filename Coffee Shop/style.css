@@ -21,7 +21,7 @@ button {
 }
 
 body {
-  background: #100e0f;
+  background: #111827;
 }
 
 /* Nav Start */
@@ -94,7 +94,7 @@ li a:hover {
   transform: translateY(60px);
   text-align: center;
 }
-/* Our Story */
+/* Our Story Start */
 #our-story {
   margin-top: 15%;
   display: flex;
@@ -134,3 +134,4 @@ li a:hover {
   margin: 20px 0;
   color: #fff;
 }
+/* Our Story End */
