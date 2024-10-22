@@ -95,45 +95,42 @@ li a:hover {
   text-align: center;
 }
 /* Our Story */
-#Our-story{
-  margin-top:15%;
+#our-story {
+  margin-top: 15%;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
 }
-.img{
+
+.img {
   width: 400px;
   height: 400px;
-  background: url();
-  background-position: center;
-  background-size: cover;
+  background: url(../img/c2.png) no-repeat center center/cover;
 }
 
-.title-style{
+.title-style {
   display: flex;
   align-items: center;
 }
 
-.title{
+.title {
   font-family: "Playfair", serif;
   font-size: 4rem;
   color: #fff;
-  transform: translateX(-100px);
 }
 
-.line{
+.line {
   width: 100px;
   height: 2px;
   background: #fff;
-  transform: translateX(-120px);
+  margin-right: 20px;
 }
 
-.section-content p{
+.section-content p {
   max-width: 500px;
-  color: #fff;
-  font-family: sans-serif;
-  line-height: 20px;
+  font-family: "Poppins", sans-serif;
+  line-height: 1.5;
   margin: 20px 0;
+  color: #fff;
 }
-
