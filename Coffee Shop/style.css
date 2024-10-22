@@ -128,5 +128,11 @@ li a:hover {
   height: 2px;
   background: #fff;
   transform: translateX(-120px);
-  
 }
+
+.section-content p{
+  max-width: 500px;
+  color: #fff;
+  font-family: sans-serif;
+}
+
