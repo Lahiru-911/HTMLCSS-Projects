@@ -96,7 +96,7 @@ li a:hover {
 }
 /* Our Story */
 #Our-story{
-  height: 100vh;
+  /* height: 100vh; */
   margin-top:15%;
   display: flex;
   flex-wrap: wrap;
@@ -107,4 +107,18 @@ li a:hover {
   width: 400px;
   height: 400px;
   background: url();
+  background-position: center;
+  background-size: cover;
+}
+
+.title-style{
+  display: flex;
+  align-items: center;
+}
+
+.title{
+  font-family: "Playfair", serif;
+  font-size: 4rem;
+  color: #fff;
+  transform: translateX(-100px);
 }
