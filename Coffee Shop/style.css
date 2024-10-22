@@ -144,3 +144,21 @@ li a:hover {
   align-items: center;
   margin-top: 10rem;
 }
+
+.img-2{
+  width: 400px;
+  height: 400px;
+}
+
+.title-two{
+  font-size: 3rem;
+  color: #fff;
+  font-family:"Playfair", serif; 
+}
+
+.content-section p{
+  max-width: 500px;
+  margin-top: 20px;
+  font-family: sans-serif;
+  color: #fff;
+}
