@@ -164,3 +164,14 @@ li a:hover {
   color: #fff;
 }
 /* Coffee End */
+
+.products{
+  margin-top: 5rem;
+}
+
+.title-three{
+  font-size: 4rem;
+  margin-left: 10rem;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
