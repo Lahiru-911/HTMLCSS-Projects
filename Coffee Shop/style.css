@@ -134,5 +134,7 @@ li a:hover {
   max-width: 500px;
   color: #fff;
   font-family: sans-serif;
+  line-height: 20px;
+  margin: 20px 0;
 }
 
