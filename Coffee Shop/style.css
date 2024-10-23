@@ -228,3 +228,9 @@ li a:hover {
   font-family: sans-serif;
   margin-top: 50px;
 }
+
+.card.items p{
+  color: #fff;
+  margin: 20px 0;
+  font-family: sans-serif;
+}
