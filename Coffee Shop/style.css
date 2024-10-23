@@ -282,3 +282,101 @@ hr {
   transform: translateX(-50%); 
 }
 /* Project END */
+
+/* Responsive Styles */
+@media only screen and (max-width: 1200px) {
+  nav {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  li {
+    margin: 10px 0;
+  }
+
+  .header {
+    height: 80vh;
+    font-size: 3rem;
+  }
+
+  .main-heading, .primary-heading {
+    font-size: 3rem;
+  }
+
+  .img, .img-2 {
+    width: 300px;
+    height: 300px;
+  }
+
+  .card {
+    width: 250px;
+    height: 350px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  nav {
+    flex-direction: column;
+  }
+
+  li a {
+    margin-left: 20px;
+    padding-bottom: 5px;
+  }
+
+  .main-heading, .primary-heading {
+    font-size: 2.5rem;
+  }
+
+  .img, .img-2 {
+    width: 250px;
+    height: 250px;
+  }
+
+  .title, .title-two, .title-three {
+    font-size: 2.5rem;
+  }
+
+  .card {
+    width: 200px;
+    height: 300px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  nav {
+    flex-direction: column;
+  }
+
+  li a {
+    font-size: 0.9rem;
+    margin-left: 10px;
+  }
+
+  .main-heading, .primary-heading {
+    font-size: 2rem;
+  }
+
+  .img, .img-2 {
+    width: 200px;
+    height: 200px;
+  }
+
+  .title, .title-two, .title-three {
+    font-size: 2rem;
+  }
+
+  .card {
+    width: 150px;
+    height: 250px;
+  }
+
+  button {
+    padding: 8px 20px;
+  }
+
+  .para {
+    font-size: 0.8rem;
+  }
+}
