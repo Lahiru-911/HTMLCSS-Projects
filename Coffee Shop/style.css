@@ -204,3 +204,9 @@ li a:hover {
   position: absolute;
   top: -60px;
 }
+
+.img-one{
+  background: url();
+  background-position: center;
+  background-size: cover;
+}
