@@ -250,3 +250,11 @@ footer .container{
   max-width: 300px;
   text-align: center;
 }
+
+footer .heading-info{
+  margin-bottom: 20px;
+}
+
+footer p{
+  line-height: 25px;
+}
