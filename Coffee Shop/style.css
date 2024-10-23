@@ -258,3 +258,12 @@ footer .heading-info{
 footer p{
   line-height: 25px;
 }
+
+span{
+  color:var(--main-color)
+}
+
+hr{
+  margin-bottom: 20px;
+  border:var(--main-color)
+}
