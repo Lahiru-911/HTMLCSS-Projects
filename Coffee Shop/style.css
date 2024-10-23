@@ -197,3 +197,10 @@ li a:hover {
   position: relative;
   margin-bottom: 4rem;
 }
+
+.card-img{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: -60px;
+}
