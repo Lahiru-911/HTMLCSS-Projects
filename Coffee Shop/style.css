@@ -265,5 +265,7 @@ span{
 
 hr{
   margin-bottom: 20px;
-  border:var(--main-color)
+  border:var(--main-color);
+  width: 500px;
+  margin: 0 auto;
 }
