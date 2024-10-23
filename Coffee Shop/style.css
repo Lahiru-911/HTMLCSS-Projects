@@ -222,3 +222,9 @@ li a:hover {
   background-position: center;
   background-size: cover;
 }
+
+.card-title{
+  color: white;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
