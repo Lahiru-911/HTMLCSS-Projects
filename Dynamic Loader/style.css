@@ -40,3 +40,7 @@ body{
 .loader .loading-three{
   animation-delay: 0.5s;
 }
+
+@keyframes Load{
+  
+}
