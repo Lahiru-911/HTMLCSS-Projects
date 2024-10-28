@@ -34,9 +34,9 @@ body{
   animation-delay: 0.3s;
 }
 
-.loader .loading-one{
-  animation-delay: 0.3s;
+.loader .loading-two{
+  animation-delay: 0.4s;
 }
-.loader .loading-one{
-  animation-delay: 0.3s;
+.loader .loading-three{
+  animation-delay: 0.5s;
 }
