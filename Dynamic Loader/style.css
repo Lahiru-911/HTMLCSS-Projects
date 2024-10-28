@@ -30,18 +30,18 @@ body{
   animation: load 0.8s ease infinite;
 }
 
-.loader .loading-one{
+.loader .loading .one{
   animation-delay: 0.3s;
 }
 
-.loader .loading-two{
+.loader .loading .two{
   animation-delay: 0.4s;
 }
-.loader .loading-three{
+.loader .loading .three{
   animation-delay: 0.5s;
 }
 
-@keyframes Load{
+@keyframes load{
   0%{
     width: 30px;
     height: 30px;
