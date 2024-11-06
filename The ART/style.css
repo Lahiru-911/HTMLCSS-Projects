@@ -35,3 +35,31 @@ li a {
   text-decoration: none;
   color: #000;
 }
+
+nav .nvbr {
+  margin-right: 5rem;
+  cursor: pointer;
+}
+
+nav .nvbr span {
+  height: 4px;
+  border: 2px solid black;
+  margin: 4px;
+  background: #000;
+}
+
+header {
+  margin: 6rem;
+}
+
+.m-heading {
+  width: 50%;
+  font-size: 3rem;
+}
+
+.p-heading {
+  width: 50%;
+  margin-top: 3rem;
+  font-size: 1.5rem;
+  line-height: 30px;
+}
