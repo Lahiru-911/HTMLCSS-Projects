@@ -103,3 +103,34 @@ main .img {
   height: 500px;
   margin: 50px;
 }
+
+/* FOOTER START */
+footer {
+  background: var(--primary-color);
+  margin-top: 10rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  height: 100vh;
+  color: #fff;
+}
+
+footer .logo-container h1 {
+  font-size: 4rem;
+  font-family: var(--main-font);
+  margin-bottom: 20px;
+}
+
+footer .logo-container p {
+  max-width: 400px;
+  font-family: sans-serif;
+  line-height: 25px;
+}
+
+footer .about-company {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
