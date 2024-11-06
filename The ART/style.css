@@ -1,4 +1,4 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -9,7 +9,7 @@
 @import url("https://fonts.googleapis.com/css?family=Reenie+Beanie&display=swap");
 
 /* Basics */
-body{
+body {
   background-color: #ebeae9;
 }
 
@@ -17,7 +17,7 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
-nav{
+nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -26,8 +26,7 @@ nav{
   margin-bottom: 5rem;
 }
 
-nav ul{
+nav ul {
   margin-left: 5rem;
   list-style: none;
 }
-
