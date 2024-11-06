@@ -64,3 +64,14 @@ header {
   line-height: 30px;
 }
 
+/* Main Start */
+main {
+  margin: 0 4rem;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 40px;
+}
+
+main .img {
+  width: 50%;
+}
