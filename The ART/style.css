@@ -134,3 +134,22 @@ footer .about-company {
   justify-content: center;
   align-items: center;
 }
+
+footer .about-company .container {
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+.about-company .container h1 {
+  margin-bottom: 50px;
+}
+
+.about-company .container p {
+  font-family: sans-serif;
+  margin-bottom: 20px;
+}
+
+footer {
+  height: 100vh;
+  background: rgb(43, 43, 43);
+}
