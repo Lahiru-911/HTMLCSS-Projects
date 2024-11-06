@@ -17,3 +17,17 @@ html {
   font-family: "Open Sans", sans-serif;
 }
 
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  padding: 20px;
+  margin-bottom: 5rem;
+}
+
+nav ul{
+  margin-left: 5rem;
+  list-style: none;
+}
+
